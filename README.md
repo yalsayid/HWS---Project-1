@@ -1,6 +1,6 @@
 # Hacking With Swift(HWS) - Project 1: Storm Viewer
 
-This is a basic app that allows users to scroll through a list of images, and select one to view. 
+This is a basic app that allows users to scroll through a list of images of storms, and select one to view.
 
 Time spent: **1.5** hours spent in total
 
