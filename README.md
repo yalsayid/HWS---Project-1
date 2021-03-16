@@ -23,4 +23,4 @@ The following **challenges** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/SuEksqytR1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/HWxSy8sp7C.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
